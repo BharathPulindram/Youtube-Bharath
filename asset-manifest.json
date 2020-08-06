@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Youtube-Bharath/static/css/main.8a1be2ae.chunk.css",
+    "main.js": "/Youtube-Bharath/static/js/main.13f30822.chunk.js",
+    "main.js.map": "/Youtube-Bharath/static/js/main.13f30822.chunk.js.map",
+    "runtime-main.js": "/Youtube-Bharath/static/js/runtime-main.b7d84992.js",
+    "runtime-main.js.map": "/Youtube-Bharath/static/js/runtime-main.b7d84992.js.map",
+    "static/js/2.cf127c64.chunk.js": "/Youtube-Bharath/static/js/2.cf127c64.chunk.js",
+    "static/js/2.cf127c64.chunk.js.map": "/Youtube-Bharath/static/js/2.cf127c64.chunk.js.map",
+    "index.html": "/Youtube-Bharath/index.html",
+    "precache-manifest.1dd8344dc50f4c03806664a4b20859a0.js": "/Youtube-Bharath/precache-manifest.1dd8344dc50f4c03806664a4b20859a0.js",
+    "service-worker.js": "/Youtube-Bharath/service-worker.js",
+    "static/css/main.8a1be2ae.chunk.css.map": "/Youtube-Bharath/static/css/main.8a1be2ae.chunk.css.map",
+    "static/js/2.cf127c64.chunk.js.LICENSE.txt": "/Youtube-Bharath/static/js/2.cf127c64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7d84992.js",
+    "static/js/2.cf127c64.chunk.js",
+    "static/css/main.8a1be2ae.chunk.css",
+    "static/js/main.13f30822.chunk.js"
+  ]
+}
